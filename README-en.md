@@ -1,6 +1,6 @@
 # universal-traffic-aggregator
 
-[English](./README-en.md) | 简体中文
+English | [简体中文](./README.md)
 
 # Important Notice
 
